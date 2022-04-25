@@ -48,3 +48,5 @@ Issued Jul 2020
 
 ```
 [go back](https://cybereagle2001.github.io/Oussama-Ben-Hadj-Dahman/)
+
+                                                  ALL RIGHT RESERVED @cybereagle2001
