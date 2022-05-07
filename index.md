@@ -12,8 +12,9 @@ Issued dec 2021
 ### Python – HackerRank
 Issued dec 2021
 [view certificate](https://www.hackerrank.com/certificates/5bc5514e848d)
-###SQL – sololearn
+### SQL – sololearn
 Issued dec 2021
+[view certificate](https://www.sololearn.com/certificates/course/en/24242844/1060/landscape/png)
 ### ICSI | Certified Penetration Tester(CPT) – ICSI (International CyberSecurity Institute), UK
 Issued nov 2021
 [view certificate](https://www.credential.net/e4ad127c-9121-49ce-a937-7ca828dacd45#gs.ztihdw)
