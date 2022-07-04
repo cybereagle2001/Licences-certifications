@@ -64,6 +64,6 @@ Issued Jul 2020
 [view certificate](https://openclassrooms.com/fr/course-certificates/6841602594)
 
 
-[go back](https://cybereagle2001.github.io/Oussama-Ben-Hadj-Dahman/)
+[go back](https://cybereagle2001.github.io/Blog/CV)
 
                                                ALL RIGHT RESERVED @cybereagle2001
