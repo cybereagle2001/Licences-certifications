@@ -1,5 +1,8 @@
 # Licences & certifications
 
+### ICSI | Certified Digital Forensics Examiner (CDFE) - ICSI (International CyberSecurity Institute), UK
+Issued Aug 2022
+[view certificate](https://www.credential.net/84cca108-c2fd-45c7-a02c-4af5b88e7499)
 ### Identifying Web Attacks Through Logs – Cybrary
 Issued Apr 2022
 [view certificate](https://app.cybrary.it/courses/api/certificate/CC-e7e06f39-406a-4a0f-80f0-dfde6df88296/view)
