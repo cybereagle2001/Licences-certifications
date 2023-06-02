@@ -2,9 +2,10 @@
 
 ### AI-900 : Microsoft Azure AI Fundamentals
 Issued May 2023
+[view certificate](https://www.credly.com/badges/61682978-7d63-4756-b0d6-8a4412d4fc5b)
 ### SC-900 : Microsoft Security, Compliance, and Identity Fundamentals
 Issued May 2023
-[view certificate]
+[view certificate](https://www.credly.com/badges/0e967160-281d-4670-8e99-71afa7ea6f15)
 ### ICSI | Certified Digital Forensics Examiner (CDFE) - ICSI (International CyberSecurity Institute), UK
 Issued Aug 2022
 [view certificate](https://www.credential.net/84cca108-c2fd-45c7-a02c-4af5b88e7499)
@@ -62,14 +63,12 @@ Issued Sep 2020
 [view certificate](https://app.cybrary.it/courses/api/certificate/CC-49fe1f82-d028-4daa-a764-a9622b5db1a7/view)
 ### Apprenez le fonctionnement des réseaux TCP/IP - IN’TECH INFO
 Issued Aug 2020
-[view certificate](https://openclassrooms.com/fr/course-certificates/8731477438)
 ### CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks - Linkedin
 Issued Jul 2020
 ### Introduction au conteneur - Microsoft
 Issued Jul 2020
 ### Initiez vous à l'intelligence artificielle - Institut Montaigne
 Issued Jul 2020
-[view certificate](https://openclassrooms.com/fr/course-certificates/6841602594)
 
 
 [go back](https://cybereagle2001.github.io/Blog/CV)
