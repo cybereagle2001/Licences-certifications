@@ -1,5 +1,10 @@
 # Licences & certifications
 
+### AI-900 : Microsoft Azure AI Fundamentals
+Issued May 2023
+### SC-900 : Microsoft Security, Compliance, and Identity Fundamentals
+Issued May 2023
+[view certificate]
 ### ICSI | Certified Digital Forensics Examiner (CDFE) - ICSI (International CyberSecurity Institute), UK
 Issued Aug 2022
 [view certificate](https://www.credential.net/84cca108-c2fd-45c7-a02c-4af5b88e7499)
