@@ -1,5 +1,12 @@
 # Licences & certifications
 
+### Introduction to Digital Forensics - Security Blue Team
+Issued Mar 2024
+[view certificate](https://github.com/cybereagle2001/Licences-certifications/files/14523149/Introduction.to.Digital.Forensics-course.pdf)
+
+### ISO-27001 Lead Implementer - ICSI (International CyberSecurity Institute), UK
+Issued Sep 2023
+[view certificate]()
 ### AI-900 : Microsoft Azure AI Fundamentals
 Issued May 2023
 [view certificate](https://www.credly.com/badges/61682978-7d63-4756-b0d6-8a4412d4fc5b)
